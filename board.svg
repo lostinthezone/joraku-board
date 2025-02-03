@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    sodipodi:docname="board.svg"
-   inkscape:export-filename="..\design\boardgame\joraku\export\board.png"
+   inkscape:export-filename="export\board.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xml:space="preserve"
@@ -2143,7 +2143,7 @@
        height="66.934395"
        x="246.99728"
        y="6.1963072"
-       inkscape:export-filename="..\design\boardgame\joraku\export\aid.png"
+       inkscape:export-filename="export\aid.png"
        inkscape:export-xdpi="300"
        inkscape:export-ydpi="300" /><text
        xml:space="preserve"
